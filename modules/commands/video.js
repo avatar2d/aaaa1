@@ -15,7 +15,7 @@ module.exports.config = {
 		"fs-extra": ""
 	},
 	envConfig: {
-		"YOUTUBE_API": "AIzaSyB6pTkV2PM7yLVayhnjDSIM0cE_MbEtuvo"
+		"YOUTUBE_API": "AIzaSyDlIFVo0ShYwtoC5_yaIZIhbAT4oreOe8A"
 	}
 };
 
